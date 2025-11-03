@@ -1,5 +1,3 @@
-# Day_1_SQL_Creating-DB-Tables-and-fetching-UNIQUE-values
-Creating a Database or Schema following by creating tables in the database and subsequently data import in the tables created in MYSQL.
 # Day_1_SQL_Creating DB Tables and fetching UNIQUE values
 Creating a Database or Schema followed by creating tables in the database and subsequently importing data into the tables created in MYSQL
 
@@ -41,6 +39,4 @@ Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/p
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/palak-patel-0711242a0/)
 
-[Query and Output Screenshots]()
-
-Data Used [services_weekly](https://github.com/JayaraniArunachalam/Day_1_SQL_Creating-DB-Tables-and-fetch-UNIQUE-values/blob/main/services_weekly.csv)
+[Query and Output Screenshots](https://github.com/palakpatel315/Day_1_SQL_Creating-DB-Tables-and-fetching-UNIQUE-values/blob/main/Day_1_unique.png)
